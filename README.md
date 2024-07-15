@@ -1,4 +1,3 @@
-<div align="center"><img src="home/.config/neofetch/logo_nixos.png"></div>
 <h1 align="center">NixOS & Hyprland with Catppuccin Macchiato Theme Configuration</h1>
 
 <div align="center">
